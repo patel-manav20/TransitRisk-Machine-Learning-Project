@@ -2,7 +2,7 @@
   <img src="./TransitRisk.png" width="200" alt="TransitRisk" />
 </p>
 
-<h1 align="center">🚇 TransitRisk</h1>
+<h1 align="center"> TransitRisk</h1>
 
 <p align="center"><strong>Next-hour delay risk for every station–route pair — calibrated, cost-aware, built for a dispatch-style dashboard.</strong></p>
 
@@ -19,23 +19,9 @@
 ## Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4eaa48a4-9d35-4c8a-a55c-23b05fd071f1" width="900" alt="TransitRisk dashboard" />
+  <img width="593" height="442" alt="image" src="https://github.com/user-attachments/assets/8e014be7-8639-4427-b6cf-c6ae07534e43" />
 </p>
 <p align="center"><em>Live dashboard preview</em></p>
-
-Add more PNGs under **`assets/`** if you want repo-local images:
-
-<p align="center">
-  <img src="./assets/dashboard-main.png" width="900" alt="Main dashboard" />
-</p>
-
-<p align="center">
-  <img src="./assets/dashboard-risk-panel.png" width="900" alt="Risk panel" />
-</p>
-
-<p align="center">
-  <img src="./assets/dashboard-tabs.png" width="900" alt="Other tabs" />
-</p>
 
 ---
 
