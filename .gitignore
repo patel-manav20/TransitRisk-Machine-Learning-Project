@@ -43,3 +43,6 @@ env/
 .idea/
 .vscode/
 *.swp
+
+# Office temp locks
+~$*
