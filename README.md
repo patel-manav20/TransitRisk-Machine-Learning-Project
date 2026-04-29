@@ -401,8 +401,7 @@ flowchart TB
 ## 🖼 Screenshots & visuals
 
 <p align="center">
-  <<img width="447" height="338" alt="image" src="https://github.com/user-attachments/assets/4eaa48a4-9d35-4c8a-a55c-23b05fd071f1" />
- alt="Dashboard view (placeholder)" />
+  <img width="447" height="338" alt="image" src="https://github.com/user-attachments/assets/4eaa48a4-9d35-4c8a-a55c-23b05fd071f1" />
 </p>
 <p align="center"><em>What I’m aiming to show: Dashboard ✨</em></p>
 
