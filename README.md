@@ -282,7 +282,7 @@ For Streamlit flags (`--server.port`, `--server.headless true`, etc.) I document
 
 ---
 
-## 📐 Diagrams (Mermaid reference)
+## 📐 Diagrams 
 
 ### System architecture
 
@@ -401,7 +401,8 @@ flowchart TB
 ## 🖼 Screenshots & visuals
 
 <p align="center">
-  <img src="./assets/screenshot-dashboard.png" width="700" alt="Dashboard view (placeholder)" />
+  <img src=<img width="447" height="338" alt="image" src="https://github.com/user-attachments/assets/4eaa48a4-9d35-4c8a-a55c-23b05fd071f1" />
+ alt="Dashboard view (placeholder)" />
 </p>
 <p align="center"><em>What I’m aiming to show: Dashboard ✨</em></p>
 
