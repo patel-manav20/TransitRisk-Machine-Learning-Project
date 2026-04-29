@@ -15,6 +15,8 @@
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white" alt="Python 3.10+" /></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+  <a href="https://github.com/patel-manav20/TransitRisk-Machine-Learning-Project"><img src="https://img.shields.io/github/stars/patel-manav20/TransitRisk-Machine-Learning-Project?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/patel-manav20/TransitRisk-Machine-Learning-Project/network/members"><img src="https://img.shields.io/github/forks/patel-manav20/TransitRisk-Machine-Learning-Project?style=social" alt="GitHub forks" /></a>
   <img src="https://img.shields.io/badge/build-CI%20not%20configured-yellow" alt="Build status" />
   <img src="https://img.shields.io/badge/coverage-add%20pytest--cov-lightgrey" alt="Coverage" />
   <img src="https://img.shields.io/badge/license-TBD-lightgrey" alt="License" />
@@ -137,12 +139,11 @@ If you just want the dashboard, this is the path I use — **no training require
 
 **Steps**
 
-1. **Get the code on your machine** — clone from wherever you host it, or unzip a copy. Then `cd` into the project root (the folder that contains `app/` and `requirements.txt`).
+1. **Clone this repo** (or unzip a copy) and `cd` into the project root (the folder that contains `app/` and `requirements.txt`).
 
 ```bash
-# Example — replace with your real remote:
-git clone https://github.com/YOUR_USERNAME/transitrisk.git
-cd transitrisk
+git clone https://github.com/patel-manav20/TransitRisk-Machine-Learning-Project.git
+cd TransitRisk-Machine-Learning-Project
 ```
 
 2. **Create a venv and install dependencies**
@@ -538,11 +539,11 @@ Plain English for now: **assume all rights reserved** until I publish a license;
 </p>
 
 <p align="center">
-  <em>Update the social links below to your real profiles.</em>
+  <em>Repo: <a href="https://github.com/patel-manav20/TransitRisk-Machine-Learning-Project">patel-manav20/TransitRisk-Machine-Learning-Project</a> — update X / LinkedIn below to your profiles.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/manavnayanbhaipatel"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/patel-manav20/TransitRisk-Machine-Learning-Project"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X (replace me)" /></a>
   &nbsp;
@@ -550,5 +551,7 @@ Plain English for now: **assume all rights reserved** until I publish a license;
 </p>
 
 <p align="center">
-  <em>When the repo is public, you can add a star-history chart at <a href="https://star-history.com/">star-history.com</a> using your <code>user/repo</code> slug.</em>
+  <a href="https://star-history.com/#patel-manav20/TransitRisk-Machine-Learning-Project&amp;Date">
+    <img src="https://api.star-history.com/svg?repos=patel-manav20/TransitRisk-Machine-Learning-Project&amp;type=Date" alt="Star history chart" width="600" />
+  </a>
 </p>
