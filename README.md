@@ -2,7 +2,7 @@
   <img src="./TransitRisk.png" width="220" alt="TransitRisk logo" />
 </p>
 
-<h1 align="center">🚇 TransitRisk</h1>
+<h1 align="center"> TransitRisk</h1>
 
 <p align="center">
   <strong>Know delays before they cascade — calibrated, cost-sensitive next-hour risk for every station–route pair.</strong>
@@ -403,26 +403,7 @@ flowchart TB
 <p align="center">
   <img src="./assets/screenshot-dashboard.png" width="700" alt="Dashboard view (placeholder)" />
 </p>
-<p align="center"><em>What I’m aiming to show: Risk Panel + my sidebar guide ✨</em></p>
-
-<p align="center">
-  <img src="./assets/screenshot-mobile.png" width="420" alt="Responsive placeholder" />
-</p>
-<p align="center"><em>I still need a narrow-width grab (~390px) for this slot</em></p>
-
-<p align="center">
-  <img src="./assets/screenshot-dark.png" width="340" alt="Dark theme" />
-  <img src="./assets/screenshot-light.png" width="340" alt="Light theme placeholder" />
-</p>
-<p align="center"><em>The app is dark-first (how I designed it); a “light” pair is optional if I ever add a toggle</em></p>
-
-**My screenshot checklist (when I get around to it):**
-
-1. `./assets/screenshot-dashboard.png` — **📡 Risk Panel** full width, gauge + route bars, sidebar visible.  
-2. `./assets/screenshot-mobile.png` — same tab, devtools ~iPhone width.  
-3. `./assets/screenshot-dark.png` — any tab that shows the hero metrics.  
-4. `./assets/screenshot-light.png` — either a real light theme **or** I’ll swap in **🔴 Live Feed** instead.  
-5. `./assets/hero-demo.gif` — ~8–15s: pick a station → show risk → nudge a **What-If** slider.
+<p align="center"><em>What I’m aiming to show: Dashboard ✨</em></p>
 
 ---
 
