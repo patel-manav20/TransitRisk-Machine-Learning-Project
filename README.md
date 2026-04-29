@@ -27,17 +27,18 @@
 
 ## Contents
 
-· [What & why](#what--why) 
-· [Features](#features) 
-· [Architecture](#architecture) 
-· [Tech stack](#tech-stack) 
-· [Quick start](#quick-start) 
-· [Structure](#project-structure) 
-· [Usage](#usage) 
-· [Environment](#environment) 
-· [Diagrams](#diagrams) 
-· [Testing](#testing) 
-· [Deploy](#deploy)
+- [What & why](#what--why)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Tech stack](#tech-stack)
+- [Quick start](#quick-start)
+- [Structure](#project-structure)
+- [Usage](#usage)
+- [Environment](#environment)
+- [Diagrams](#diagrams)
+- [Testing](#testing)
+- [Deploy](#deploy)
+
 
 ---
 
