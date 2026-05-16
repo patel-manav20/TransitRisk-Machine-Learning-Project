@@ -1,6 +1,5 @@
 # TransitRisk — Project Context
 
-> This file is written for AI agents and collaborators who need full context fast.
 > It covers every major decision made, why it was made, and what the project is actually doing.
 
 ---
